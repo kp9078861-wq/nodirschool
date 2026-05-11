@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Nodir School</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- Header -->
+  <header>
+    <div class="logo">Nodir School</div>
+    <div class="contact">📞 +998 94 810 12 09</div>
+  </header>
+
+  <!-- Hero Section -->
+  <section class="hero">
+    <h1>Bilim — kelajak kaliti</h1>
+    <p>Toshkent viloyati, Yuqori Chirchiq tumani, Yangibozor shahri</p>
+    <button>Kurslarimizni ko‘ring</button>
+  </section>
+
+  <!-- About Us -->
+  <section class="about">
+    <h2>Biz haqimizda</h2>
+    <p>Nodir School — zamonaviy o‘quv markaz. 10–15 nafar tajribali ustozlar, har kuni 08:00–19:00.</p>
+  </section>
+
+  <!-- Courses -->
+  <section class="courses">
+    <h2>Kurslarimiz</h2>
+    <div class="course-grid">
+      <div class="course-item">Ingliz tili (IELTS, CEFR)</div>
+      <div class="course-item">Matematika va Fizika</div>
+      <div class="course-item">Biologiya va Kimyo</div>
+      <div class="course-item">Ona tili va Tarix</div>
+      <div class="course-item">Rus tili</div>
+      <div class="course-item">Shaxmat</div>
+    </div>
+  </section>
+
+  <!-- Gallery -->
+  <section class="gallery">
+    <h2>Galereya</h2>
+    <p>Nodir School hayotidan lavhalar</p>
+    <div class="gallery-grid">
+      <img src="gallery/classroom.jpg" alt="Matematika darsi">
+      <img src="gallery/lab.jpg" alt="Biologiya va Kimyo tajribasi">
+      <img src="gallery/chess.jpg" alt="Shaxmat musobaqasi">
+    </div>
+    <button class="gallery-btn">Ko‘proq ko‘rish</button>
+  </section>
+
+  <!-- Contact -->
+  <section class="contact-section">
+    <h2>Aloqa</h2>
+    <p>📍 Toshkent viloyati, Yuqori Chirchiq tumani, Yangibozor shahri</p>
+    <p>📞 +998 94 810 12 09</p>
+    <p>Ish vaqti: Har kuni 08:00 – 19:00</p>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <p>Nodir School © 2026</p>
+  </footer>
+</body>
+</html>
